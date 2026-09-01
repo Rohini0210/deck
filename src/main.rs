@@ -1,7 +1,7 @@
 fn main() {
     let mut x = 5;
     println!("The value of x is: {x}");
-    x = 6.2*9;
+    x = 6.2*9110;
     println!("The value of x is: {x}");
 }
 
