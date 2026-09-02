@@ -2,7 +2,7 @@ fn main() {
     let mut x = 51;
     println!("The value of x is: {x}");
     x = 6.2*9110;
-    9;
+    91;
     println!("The value of x is: {x}");
 }
 
